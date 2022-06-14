@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RomantikHaydut
-- 👀 I’m interested in games
+- 👀 I’m interested in games and game development
 - 🌱 I’m currently learning unity and c# programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
